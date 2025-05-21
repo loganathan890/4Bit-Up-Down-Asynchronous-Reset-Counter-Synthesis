@@ -69,12 +69,15 @@ used.
 
 #### Area report:
 
+![Screenshot (129)](https://github.com/user-attachments/assets/3d4efc0f-9dfe-4cd7-ac32-65e5dbf551a4)
 
 #### Power Report:
 
-![Uploading Screenshot (130).png…]()
+![Screenshot (130)](https://github.com/user-attachments/assets/cb2ab3e8-e72f-42c9-a7db-419b0ab1324c)
 
 #### Timing Report: 
+
+![Screenshot (131)](https://github.com/user-attachments/assets/5a1d32a0-d956-46c3-a5f2-3ca5a4cdafd3)
 
 
 #### Result: 
